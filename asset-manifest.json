@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/algoVisualizer/static/css/main.dba58af5.css",
+    "main.js": "/algoVisualizer/static/js/main.1b433467.js",
+    "static/js/453.3b265e9d.chunk.js": "/algoVisualizer/static/js/453.3b265e9d.chunk.js",
+    "index.html": "/algoVisualizer/index.html",
+    "main.dba58af5.css.map": "/algoVisualizer/static/css/main.dba58af5.css.map",
+    "main.1b433467.js.map": "/algoVisualizer/static/js/main.1b433467.js.map",
+    "453.3b265e9d.chunk.js.map": "/algoVisualizer/static/js/453.3b265e9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba58af5.css",
+    "static/js/main.1b433467.js"
+  ]
+}
